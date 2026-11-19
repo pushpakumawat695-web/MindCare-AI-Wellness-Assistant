@@ -45,7 +45,7 @@ MindCare/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/pushpakumawat695-web/MindCare-AI-Wellness-Assistant.git
 ```
 
 ### 2. Open the project folder
