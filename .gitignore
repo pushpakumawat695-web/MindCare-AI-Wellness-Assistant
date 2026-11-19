@@ -1,0 +1,18 @@
+# API keys and environment files
+api_key.env
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE files
+.vscode/
+
+# SQLite database
+mindcare.db
